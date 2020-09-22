@@ -1,0 +1,10 @@
+C:\Users\AgteksRD\source\repos\github_test\github_test\obj\Debug\github_test.csprojAssemblyReference.cache
+C:\Users\AgteksRD\source\repos\github_test\github_test\obj\Debug\github_test.Form1.resources
+C:\Users\AgteksRD\source\repos\github_test\github_test\obj\Debug\github_test.Properties.Resources.resources
+C:\Users\AgteksRD\source\repos\github_test\github_test\obj\Debug\github_test.csproj.GenerateResource.cache
+C:\Users\AgteksRD\source\repos\github_test\github_test\obj\Debug\github_test.csproj.CoreCompileInputs.cache
+C:\Users\AgteksRD\source\repos\github_test\github_test\bin\Debug\github_test.exe.config
+C:\Users\AgteksRD\source\repos\github_test\github_test\bin\Debug\github_test.exe
+C:\Users\AgteksRD\source\repos\github_test\github_test\bin\Debug\github_test.pdb
+C:\Users\AgteksRD\source\repos\github_test\github_test\obj\Debug\github_test.exe
+C:\Users\AgteksRD\source\repos\github_test\github_test\obj\Debug\github_test.pdb
